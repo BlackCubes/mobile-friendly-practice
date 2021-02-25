@@ -40,9 +40,9 @@
 
 /* HEADER */
 .header {
-  width: 200px;
+  height: 400px;
   background-color: #02d2fc;
-  background-image: linear-gradient(90deg, #02d2fc, #001d24);
+  background-image: linear-gradient(180deg, #02d2fc, #001d24);
 }
 .header-title {
   text-align: center;
@@ -53,6 +53,8 @@
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .section {
   margin-top: 10px;
@@ -77,5 +79,5 @@
 }
 .footer-copyright {
   text-align: center;
-  padding: 30px;
+  padding: 60px;
 }
